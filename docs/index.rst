@@ -59,7 +59,7 @@ Jika kamu mengalami masalah tersebut, maka tidak perlu panik. Setidaknya masih b
 Akhir Kata WA versi Modifikasi
 ==============
 
-Untuk mengatasi masalah pesan WhatsApp yang dikirim masih centang satu padahal sedang online, salah satunya bisa dengan mengecek koneksi internet atau jenis WhatsApp yang sedang digunakan si penerima apakah versi modifikasi.
+Untuk mengatasi masalah pesan WhatsApp yang dikirim masih centang satu padahal sedang online, salah satunya bisa dengan mengecek koneksi internet atau jenis WhatsApp yang sedang digunakan si penerima apakah versi modifikasi seperti WA versi `Fouad Mods <https://fouadmod.readthedocs.io/>`_.
 
 Demikian solusi pesan WhatsApp centang 1 padahal online dengan mudah, terpenting ketahui dahulu penyebabnya agar bisa menemukan solusinya sehingga bisa mengetahui kendala yang terjadi. Semoga informasinya bermanfaat.
 
@@ -68,3 +68,12 @@ Referensi terkait:
 1. `wameta.readthedocs.io <https://wameta.readthedocs.io/>`_ 
 2. `gbmods.readthedocs.io <https://gbmods.readthedocs.io/>`_ 
 3. `suaragoogle.readthedocs.io <https://suaragoogle.readthedocs.io/>`_
+
+********
+Contents
+********
+
+.. toctree::
+   :maxdepth: 2
+
+   whatsapp-plus/index
