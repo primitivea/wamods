@@ -1,4 +1,4 @@
-Fitur-Fitur Update di WhatsApp Plus
+Fitur-Fitur Update WhatsApp Plus APK Terbaru
 ==================
 
 WhatsApp Plus terbaru 2022 sudah dibekali dengan fitur menarik seperti cleaner yang akan membantu kamu membersihkan sampah dari dalam aplikasi. Fitur yang terdapat di WA Plus versi terbaru ini mirip dengan WhatsApp Mod yang dirilis pihak `WA Beta <http://wabeta.readthedocs.io/>`_ di postingan sebelumnya.
